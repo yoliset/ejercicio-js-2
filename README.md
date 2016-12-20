@@ -1,5 +1,7 @@
-# Ejercicio1
-Inicio : Promedio de 3 Numeros
+# Ejercicio2
+
+##Inicio : Promedio de 3 Numeros
+
 ##Ingreso de Datos
 - Numero1
 - Numero2
@@ -14,3 +16,5 @@ Inicio : Promedio de 3 Numeros
 - Sumar Numero1 y Numero2 y Numero3 y almacenar en Suma
 - Dividir Suma entre 3 y almacenar en Promedio
 - Mostrar Promedio
+
+##Fin
